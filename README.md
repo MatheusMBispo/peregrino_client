@@ -5,6 +5,15 @@
 
 https://github.com/MatheusMBispo/peregrino_client/assets/18006278/576f48ed-4d74-4fa7-acc8-ae8962fc5540
 
+# Prints
+
+<img src="https://github.com/MatheusMBispo/peregrino_client/assets/18006278/2a350f5d-e9e3-4e47-b87d-9fa9e9e2b71f" height="500">
+<img src="https://github.com/MatheusMBispo/peregrino_client/assets/18006278/f9728f0b-e2e6-464e-9f23-4e96f384b70c" height="500">
+<img src="https://github.com/MatheusMBispo/peregrino_client/assets/18006278/cf5b835d-e4f7-4435-87db-84a02cb91624" height="500">
+<img src="https://github.com/MatheusMBispo/peregrino_client/assets/18006278/a3fb298c-fdc0-4754-b77f-cfb674713b8a" height="500">
+
+
+
 
 ## Conteúdo
 
