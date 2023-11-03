@@ -2,6 +2,10 @@
 
 👋 Hey, Bem vindo ao client do Peregrino! 🙏
 
+
+https://github.com/MatheusMBispo/peregrino_client/assets/18006278/576f48ed-4d74-4fa7-acc8-ae8962fc5540
+
+
 ## Conteúdo
 
 * [Peregrino](#peregrino--client-)
@@ -37,7 +41,7 @@ Basta executar o comando `flutter run`.
 | Playlist Page                                                    | ✅             |
 | Audio Player Page                                                | ✅             |
 | Google Fonts                                                     | ✅             |
-| Auth Page                                                        | ✅             |
+| Autenticação com email e senha                                   | ✅             |
 | Validadores de Input                                             | ✅             |
 | Imagem armazenada em cache                                       | ✅             |
 | Refresh Token                                                    | ✅             |
